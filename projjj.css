@@ -1,8 +1,8 @@
-body{
+body{ 
 	background-color: black;
+	background-image: url(pic.jpg);
 }
 
-h1{
-	color: white
+h1{ 
+	color:white;
 }
-
